@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg_server",
+  "version": "1.0.0",
+  "description": "a really shitty server to run a ffmpeg api from heroku, p.s. this is totally exploitable and really bad yada yada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumCoded/ffmpeg_server.git"
+  },
+  "author": "QuantumCoded",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuantumCoded/ffmpeg_server/issues"
+  },
+  "homepage": "https://github.com/QuantumCoded/ffmpeg_server#readme"
+}
